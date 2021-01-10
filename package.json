@@ -1,0 +1,19 @@
+{
+  "name": "change5-by-threejs",
+  "version": "1.0.0",
+  "description": "chang'e 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhyjor/change5-by-threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhyjor/change5-by-threejs/issues"
+  },
+  "homepage": "https://github.com/zhyjor/change5-by-threejs#readme"
+}
